@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NotasApp</string>
+    <string name="expo">Exposiciones</string>
+    <string name="practicas">Prácticas</string>
+    <string name="proyecto">Proyecto</string>
+    <string name="nota">Nota final</string>
+</resources>
