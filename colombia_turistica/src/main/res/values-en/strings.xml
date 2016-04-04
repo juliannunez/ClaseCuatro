@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Copacabana</string>
+    <string name="titulo">Come to Copacabana, founder</string>
+    <string name="titulo2">of towns</string>
+    <string name="parrafo1">Copacabana is a town which is located at north of Aburra\'s valley, at 14Km from Medellin, the main city of Antioquia. You can reach Copacabana from Medellin taking the north freeway or the via Machado. Both ways are in perfect state and completely paved.\n Coonatra is the bus line which offers transport inside and outside this town. The buses, in Medellin, set off from Prado Station, but also, it is possible to take the Metro integrated System in Niquia Station.</string>
+    <string name="turisticos">Turistic sites</string>
+    <string name="bares">Bars</string>
+    <string name="hoteles">Hotels</string>
+    <string name="demografia">Demographic info.</string>
+    <string name="acerca">About...</string>
+    <string name="atras">Back</string>
+    <string name="infoacercade">This app makes part of the laboratory practice number 3 for the course movile programming. \nStudent: Julián Camilo Núñez\nProfessor:Edwin Cubillos</string>
+    <string name="infodemografica">Information:\n\nThe town of Copacabana is sited at north from Medellin city, in the Aburra\'s valley, one of the nine regions which is divided the Antioquia state.\nAt north, Copacabana limits with San Pedro Town, at east with Girardota town, at west with Bello town and finally, at south limits with Medellin and Guarne.\nIt has 66 thousand people (Data taken from DANE on June 30 of 2011), which make Copacabana the 6th main agglomeration in the Aburra\'s valley.\nIt\'s main economical activity are: Industrial activity, confections, and farming.</string>
+    <string name="infohoteles">Information:\n\nBrazil Hostal\nSimple room: 15.000 pesos per night\nTelephone: 401 4918\nAddress: Av. 52 # 50 -80 Copaccabana - Antioquia</string>
+    <string name="infohoteles2">Vista Hermosa farm\nWeekend: 500.000 Pesos\nTelephone 401 4918\n25 people maximum</string>
+    <string name="infohoteles3">Villa Raquel farm\nWeekend: 550.000 Pesos\nTelephone 401 4918\n20 people maximum </string>
+    <string name="infobares">Information:\n\nRoom 94\t\t Owner: Giovanni Acevedo zapata.\n\t\t\t\t\t\t Av. 49 Nº. 51 - 29\n\t\t\t\t\t\t Tel:  274 2403 -300 431 9248\n\nSanto\t\t\t Owner: Jaian asociados\nCoyote\t\t Autopista Norte/Vereda el Noral\n\t\t\t\t\t\t Telephones:  401 34 33 / 312 895 86 74\n\nFonda del\t\t Owner: Esteban Duque\nCaballo\t\t\t Autopista Norte/Vereda el Noral\n\t\t\t\t\t\t\t\t Telephone: 320 686 5018 </string>
+    <string name="cruz">Saint Cross monument\Copacabana is called by outsiders as \"the little crossed town\". Besides, the mount which is located this cross, is used as mountain bike\'s runway. The sanctuary is sited in the Cabuyal path.</string>
+    <string name="sanjuan">Saint John of the Tasajera church\It\'s located at 2km from the main part of the city, in Saint John\'s neighborhood. The church is recognized by it\'s beautiful and paceful architecture. It was builded in the 60\'s in the very same place where the first catholic mass was given in the Aburra\'s valley, in September of 1541.</string>
+    <string name="ballenas">The whales recreative park \It\'s located at 3Km from the main part of the city, over the north freeway. It has 16 hectares of green zones with paths and offers a great variety of attractions and services to the whole family, such as: pools, slides, soccer, tennis and basketball fields, restaurants and groceries stores.</string>
+
+
+
+
+</resources>
