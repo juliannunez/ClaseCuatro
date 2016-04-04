@@ -4,4 +4,11 @@
     <string name="practicas">Prácticas</string>
     <string name="proyecto">Proyecto</string>
     <string name="nota">Nota final</string>
+    <string name="titulo">Porcentajes (%)</string>
+    <string name="guardar">Guardar</string>
+    <string name="configurar">Configurar</string>
+    <string name="acerca">Acerca de...</string>
+    <string name="error1">Por favor llene todos los campos</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="calcular">Calcular</string>
 </resources>

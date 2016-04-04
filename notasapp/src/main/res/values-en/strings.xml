@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <string name="app_name">NotesApp</string>
+        <string name="expo">Expositions</string>
+        <string name="practicas">Practices</string>
+        <string name="proyecto">Proyect</string>
+        <string name="nota">Final grade</string>
+        <string name="titulo">Percentages (%)</string>
+        <string name="guardar">Save</string>
+        <string name="configurar">Configure</string>
+        <string name="acerca">About...</string>
+        <string name="error1">Please dont leave empty spaces</string>
+        <string name="limpiar">Clean</string>
+        <string name="calcular">Calculate</string>
+
+
+
+</resources>
+
